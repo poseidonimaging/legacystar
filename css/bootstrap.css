@@ -4592,7 +4592,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     margin-left: 15px;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 0px) {
   .navbar-left {
     float: left !important;
   }
@@ -5092,7 +5092,7 @@ a.badge:focus {
 .jumbotron .container {
   max-width: 100%;
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 0px) {
   .jumbotron {
     padding-top: 48px;
     padding-bottom: 48px;
@@ -6079,7 +6079,7 @@ button.close {
   height: 50px;
   overflow: scroll;
 }
-@media (min-width: 768px) {
+@media (min-width: 0px) {
   .modal-dialog {
     width: 600px;
     margin: 30px auto;
