@@ -4401,7 +4401,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-toggle {
-  position: absolute;
+  position: relative;
   float: right;
   padding: 9px 10px;
   margin-top: 0;
