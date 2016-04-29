@@ -4430,7 +4430,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-nav {
-  margin: 7.5px -15px;
+  margin: 0 -15px;
   overflow-x: hidden;
   color: white;    
   background-color: #3c763d;
