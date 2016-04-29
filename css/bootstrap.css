@@ -4424,7 +4424,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-toggle .icon-bar + .icon-bar {
   margin-top: 4px;
 }
-@media (min-width: 0px) {
+@media (min-width: 768px) {
   .navbar-toggle {
     display: none;
   }
@@ -4585,14 +4585,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-top: 15px;
   margin-bottom: 15px;
 }
-@media (min-width: 0px) {
+@media (min-width: 768px) {
   .navbar-text {
     float: left;
     margin-right: 15px;
     margin-left: 15px;
   }
 }
-@media (min-width: 0px) {
+@media (min-width: 768px) {
   .navbar-left {
     float: left !important;
   }
@@ -5092,7 +5092,7 @@ a.badge:focus {
 .jumbotron .container {
   max-width: 100%;
 }
-@media screen and (min-width: 0px) {
+@media screen and (min-width: 768px) {
   .jumbotron {
     padding-top: 48px;
     padding-bottom: 48px;
@@ -6079,7 +6079,7 @@ button.close {
   height: 50px;
   overflow: scroll;
 }
-@media (min-width: 0px) {
+@media (min-width: 768px) {
   .modal-dialog {
     width: 600px;
     margin: 30px auto;
