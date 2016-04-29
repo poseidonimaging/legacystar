@@ -59,7 +59,7 @@ hr.small {
   font-weight: 800;
   letter-spacing: 1px;
 }
-@media only screen and (min-width: 0px) {
+@media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
     border-bottom: 1px solid transparent;
@@ -143,7 +143,7 @@ hr.small {
   padding: 100px 0 50px;
   color: white;
 }
-@media only screen and (min-width: 0px) {
+@media only screen and (min-width: 768px) {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
@@ -168,7 +168,7 @@ hr.small {
   font-weight: 300;
   margin: 10px 0 0;
 }
-@media only screen and (min-width: 0px) {
+@media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
     font-size: 80px;
@@ -197,7 +197,7 @@ hr.small {
 .intro-header .post-heading .meta a {
   color: white;
 }
-@media only screen and (min-width: 0px) {
+@media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
     font-size: 55px;
   }
@@ -238,7 +238,7 @@ hr.small {
   color: #0085a1;
   text-decoration: underline;
 }
-@media only screen and (min-width: 0px) {
+@media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 36px;
   }
@@ -352,7 +352,7 @@ form .row:first-child .floating-label-form-group {
   padding: 10px 5px;
   background-color: black;
 }
-@media only screen and (min-width: 0px) {
+@media only screen and (min-width: 768px) {
   .pager li > a,
   .pager li > span {
     font-size: 14px;
